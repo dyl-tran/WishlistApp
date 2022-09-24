@@ -27,8 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<[![wishlist-app.gif](https://i.postimg.cc/TYy0KL5C/wishlist-app.gif)](https://postimg.cc/ZCSpgqcd)' />
-
+[![wishlist-app.gif](https://i.postimg.cc/TYy0KL5C/wishlist-app.gif)](https://postimg.cc/ZCSpgqcd)'
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 <!-- Recommended tools:
